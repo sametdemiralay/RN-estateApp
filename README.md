@@ -11,5 +11,8 @@ Hazır Icon için => [Vector Icons](https://www.npmjs.com/package/react-native-v
 
 # Projeyi Çalıştırma
 #### Android
-Önce API'yi ayağa kaldırmak gerekiyor: `Node server.js`
+Önce API'yi ayağa kaldırmak gerekiyor: <br/>
+```
+Node server.js
+```
 ![samet](https://media1.tenor.com/images/3e35e47384653347a72b0626ed90cfe6/tenor.gif?itemid=9816214)
