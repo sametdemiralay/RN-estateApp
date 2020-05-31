@@ -8,3 +8,6 @@ State yönetimi için => [Redux](https://redux.js.org/),<br/>
 Oluşturduğum REST API den verileri çekmek için => [Axios](https://www.npmjs.com/package/axios),<br/>
 Anlık bildirim için => [Push Notification](https://www.npmjs.com/package/react-push-notification),<br/>
 Hazır Icon için => [Vector Icons](https://www.npmjs.com/package/react-native-vector-icons),<br/>
+
+# Projeyi Çalıştırma
+![samet](https://media1.tenor.com/images/3e35e47384653347a72b0626ed90cfe6/tenor.gif?itemid=9816214)
