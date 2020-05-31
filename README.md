@@ -1,2 +1,3 @@
-# RN-estateApp
+# estateApp
+tasarımını gördüğüm;
 ![](project-design.jpg)
