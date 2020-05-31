@@ -4,4 +4,5 @@ Projenin son halinin görünümü:
 
 # Kullandığım Kütüphaneler
 Sayfalar arası geçişi(TabNavigator) sağlamak için => [React-Navigation](https://reactnavigation.org/),<br/>
-State yönetimi için => [Redux](https://redux.js.org/),
+State yönetimi için => [Redux](https://redux.js.org/),<br/>
+Oluşturduğum REST API den verileri çekmek için => [Axios](https://www.npmjs.com/package/axios),<br/>
