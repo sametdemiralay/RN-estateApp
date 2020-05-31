@@ -3,4 +3,4 @@ Projenin son halinin görünümü:
 ![](project-design.jpg)
 
 # Kullandığım Kütüphaneler
-ReactNavigation [renav](https://reactnavigation.org/)
+Sayfalar arası geçişi sağlamak(TabNavigator) için [React-Navigation](https://reactnavigation.org/),
