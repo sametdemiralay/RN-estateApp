@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97479862882",
+    "firebase_url": "https://projectestate-33ec3.firebaseio.com",
+    "project_id": "projectestate-33ec3",
+    "storage_bucket": "projectestate-33ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97479862882:android:7411381c56424f1ed33f3b",
+        "android_client_info": {
+          "package_name": "com.estateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97479862882-u3k8pra2k5b9co4emcdgkhmmb8o6stic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXcz1KXuIyOJ2shk_e5DU3kaEccfoA24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97479862882-u3k8pra2k5b9co4emcdgkhmmb8o6stic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

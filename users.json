@@ -1,0 +1,44 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "type": "House",
+      "price": "250,000",
+      "location": "438 Glenwood Drive Asheville, NC 28803",
+      "bedroom": "4",
+      "bath": "2",
+      "sqrt": "2.400",
+      "image": "https://tinyurl.com/yczksqyn"
+    },
+    {
+      "id": 2,
+      "type": "Townhouse",
+      "price": "300,000",
+      "location": "438 Glenwood Drive Asheville, NC 28803",
+      "bedroom": "2",
+      "bath": "3",
+      "sqrt": "1.600",
+      "image": "https://tinyurl.com/y9ffxr9l"
+    },
+    {
+      "id": 3,
+      "type": "House",
+      "price": "400,000",
+      "location": "438 Glenwood Drive Asheville, NC 28803",
+      "bedroom": "1",
+      "bath": "3",
+      "sqrt": "1.700",
+      "image": "https://tinyurl.com/y6wrq3nb"
+    },
+    {
+      "id": 4,
+      "type": "Townhouse",
+      "price": "140,000",
+      "location": "438 Glenwood Drive Asheville, NC 28803",
+      "bedroom": "2",
+      "bath": "2",
+      "sqrt": "3.120",
+      "image": "https://tinyurl.com/ycx43vth"
+    }
+  ]
+}
