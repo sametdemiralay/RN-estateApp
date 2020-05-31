@@ -24,4 +24,5 @@ yarn react-native run-android --port 8082
 ### IOS
 
 Çalışmaz malesef kütüphanelerin IOS gereksinimlerini eklemedim. MAC'im olmadığı için... <br/>
+ <br/>
 ![samet](https://media1.tenor.com/images/3e35e47384653347a72b0626ed90cfe6/tenor.gif?itemid=9816214)
